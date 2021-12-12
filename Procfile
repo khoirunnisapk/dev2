@@ -1,1 +1,1 @@
-web: gunicorn motivationPred.wsgi --log-file
+web: gunicorn app:app
