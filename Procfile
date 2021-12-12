@@ -1,1 +1,1 @@
-web: gunicorn motivation-classification.wsgi
+web: gunicorn motivationPred.wsgi
